@@ -1,0 +1,19 @@
+{
+  "name": "true",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ros90/true.git"
+  },
+  "author": "ros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ros90/true/issues"
+  },
+  "homepage": "https://github.com/ros90/true#readme"
+}
