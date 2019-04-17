@@ -3,6 +3,7 @@
 Required for all path
 
 1. <h5>GIT</h5>
+
 	- [x] Basic
 		- <a href="http://www.cat-in-web.ru/vvedenie-v-git-chto-eto-takoe-i-kak-ispolzovat/">http://www.cat-in-web.ru/vvedenie-v-git-chto-eto-takoe-i-kak-ispolzovat/</a>
 		- <a href="https://old.calculate-linux.org/main/ru/git">https://old.calculate-linux.org/main/ru/git</a>
