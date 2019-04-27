@@ -5,6 +5,7 @@ Required for all path
 1. <h5>GIT</h5>
 
 	- [x] Basic
+		- <a href="https://git-scm.com/book/ru/v1/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Git-%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-Git-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F">Git basic</a>
 		- <a href="http://www.cat-in-web.ru/vvedenie-v-git-chto-eto-takoe-i-kak-ispolzovat/">http://www.cat-in-web.ru/vvedenie-v-git-chto-eto-takoe-i-kak-ispolzovat/</a>
 		- <a href="https://old.calculate-linux.org/main/ru/git">https://old.calculate-linux.org/main/ru/git</a>
 		- <a href="https://git-scm.com/book/ru/v2/Appendix-C%3A-%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B-Git-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B">https://git-scm.com/book/</a>
